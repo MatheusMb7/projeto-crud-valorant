@@ -44,5 +44,5 @@ Resposta (201 Created): { "id": 3, "nome": "Jett", "habilidade": "Corrente Ascen
 
 Integrantes do Projeto Nome GitHub Contribuições: 
 Deyvison: CRUD de Armas e Partidas, documentação da API, e Rotas 
-Matheus:  CRUD de Jogadores, Mapas, index e suporte ao middleware, Testes e Organização do Projeto e Postman.
-Fabrício: CRUD de Agentes
+Matheus:  CRUD de Jogadores, index e suporte ao middleware, Testes e Organização do Projeto e Postman.
+Fabrício: CRUD de Agentes e Mapas.
